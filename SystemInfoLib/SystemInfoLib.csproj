@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>net5.0;netcoreapp3.1;netcoreapp2.1;netstandard2.0;netstandard2.1;net48;net47;net46;net45;net40;net35</TargetFrameworks>
-    <Authors>Ramon Rosin</Authors>
+    <Authors>RamboNo5</Authors>
     <Company>SharpRambo</Company>
     <PackageLicenseExpression>CC-BY-SA-4.0</PackageLicenseExpression>
     <NeutralLanguage>en-150</NeutralLanguage>
